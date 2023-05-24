@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "lithogeology:block/emerald_embedded_marble"
+  }
+}
